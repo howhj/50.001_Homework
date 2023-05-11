@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exchange Rate </string>
+    <string name="action_settings">Settings</string>
+    <string name="set_exchange_rate">Set Exchange Rate</string>
+    <string name="main_activity_name">Convert Currency</string>
+    <string name="nfe">Please fill in all fields.</string>
+    <string name="iae">Please enter positive values only.</string>
+    <string name="map_activity">Map</string>
+    <string name="default_location">Here</string>
+</resources>
